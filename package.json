@@ -1,4 +1,14 @@
 {
+  "name": "hidespace-signal",
+  "version": "1.0.0",
+  "dependencies": {
+    "ws": "^8.17.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
+{
   "name": "hideSpace-server",
   "version": "1.0.0",
   "main": "server.js",
